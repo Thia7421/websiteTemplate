@@ -1,0 +1,237 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo+Chettan+2:800&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Bellota:700&display=swap');
+.font-family {
+    font-family: 'Baloo Chettan 2', cursive;
+}
+
+.font-family-p {
+    font-family: 'Bellota', cursive;
+    font-size: 1em;
+}
+
+.font-2em {
+    font-size: 2em;
+}
+
+.font-3em {
+    font-size: 3em;
+}
+
+.font-5em {
+    font-size: 5em;
+}
+
+.font-6em {
+    font-size: 6em;
+}
+
+.padding {
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+a.navbar-brand img {
+    width: 25%;
+}
+
+.bg-light {
+    background-color: white!important;
+}
+
+.navbar-nav li {
+    text-align: center;
+    font-weight: bold;
+    margin-right: 10%;
+}
+
+.nav-p {
+    text-align: center;
+    color: gray;
+    font-size: .7em !important;
+}
+
+.nav-link {
+    display: inline-block !important;
+    font-family: 'Baloo Chettan 2', cursive;
+    font-size: 1.3em;
+}
+
+.navbar-nav li a:hover {
+    background-color: tomato;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+.cblack {
+    background: black;
+    height: 40vh;
+}
+
+.carousel {
+    margin-top: -250px;
+}
+
+.carousel-item img {
+    border-radius: 10px;
+    height: 50vh;
+}
+
+hr {
+    border-top: 2px solid gray;
+    width: 95%;
+    margin-top: 2%;
+}
+
+.column-heading {
+    color: #1E90FF;
+}
+
+.col-p {
+    color: gray;
+    font-size: .7em !important;
+}
+
+.btn {
+    /* width: 70% !important; */
+    color: #1E90FF;
+    background: linear-gradient(to right, #D3D3D3, #F0F8FF, #D3D3D3);
+}
+
+.btn:hover {
+    background: #D3D3D3;
+}
+
+.dashed-line {
+    border-top: 2px dashed gray;
+    width: 100%;
+}
+
+.dotted-line {
+    border-top: 2px dotted gray;
+    width: 100%;
+}
+
+.social-icons {
+    font-size: 3.7em;
+}
+
+.fa-facebook-square {
+    color: #3b5998;
+}
+
+.fa-twitter-square {
+    color: #00acee;
+}
+
+.fa-rss-square {
+    color: #ee802f;
+}
+
+.fa-youtube-square {
+    color: #c4302b;
+}
+
+.fa-linkedin {
+    color: #0e76a8;
+}
+
+.padding-bottom {
+    padding-bottom: 10%;
+}
+
+.news {
+    font-weight: 900;
+}
+
+.form-control {
+    opacity: 0.7;
+    
+}
+
+.footer-btn {
+    margin-top: 5%;
+    color: #C0C0C0 !important;
+    background: linear-gradient(to top right, #1c2841, #2e5090, #1c2841) !important;
+}
+
+.footer-btn:hover {
+    background: #1c2841 !important;
+}
+
+.form-control-lg {
+    height: calc(6.5em + 1rem + 2px) !important;
+}
+
+.s-margin {
+    margin-top: 10%;
+}
+
+.post-margin {
+    margin-top: 3%;
+}
+
+.post {
+    width: 95%;
+}
+
+.card {
+    height: fit-content;
+    padding: 2%;
+}
+
+.card-post-img {
+    width: 40%;
+    height: fit-content;
+    float: left;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 2px solid rgba(0, 0, 0, .125);
+    border-radius: .25rem;
+}
+
+.post-p {
+    width: 55%;
+    float: right;
+    padding: 3px;
+    text-align: justify;
+}
+
+.gray-box {
+    background: grey;
+}
+
+.black-box {
+    background: #353535;
+}
+
+.cp-p {
+    color: gray;
+    margin-bottom: 0 !important;
+}
+
+.cp-link {
+    display: inline-block !important;
+    font-family: 'Baloo Chettan 2', cursive;
+    font-size: 1em;
+    color: gray;
+}
+
+.col-12-cp {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+    padding: 0 !important;
+    font-weight: 500;
+}
+
+.footer-p-em {
+    font-size: .7em;
+}
+
+.column-padding {
+    padding: 2%;
+}
+
+.margin-top {
+    margin-top: 2%;
+}
